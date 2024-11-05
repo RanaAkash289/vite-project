@@ -7,4 +7,5 @@ if(password == "akash"){
     console.log("hi")
 }else{
     console.log("Not Allowed")
+    console.log("Not Allowed")
 }
